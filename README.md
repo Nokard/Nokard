@@ -4,7 +4,7 @@ Trabalho com dados e Analytics Engineer.
 Atualmente curso a pós-graduação em **Machine Learning Engineering na FIAP**, onde construo
 projetos que vão do treino do modelo até a API em produção com monitoramento.
 
-- 🔭 Focado em colocar modelos em produção: APIs, pipelines e observabilidade
+- 🔭 Focado em colocar modelos em produção: APIs, pipelines e observabilidade, Analytics Engineer
 - 🌱 Estudando MLOps, deep learning aplicado a séries temporais e orquestração de dados
 - 💼 [LinkedIn](https://www.linkedin.com/in/hugo-rodrigues-dias/)
 
